@@ -171,7 +171,7 @@ skills:
         percent: ''
         icon: ''
 
-projects:
+awards:
   - title: Programming Error Detection and Correction System
     url: ''
     date: ''
