@@ -1,100 +1,100 @@
 ---
 # Display name
-title: 吳健雄
+title: Navinashok Swaminathan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Navinashok
+last_name: Swaminathan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Columbia University
+    url: https://www.columbia.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:navinashok.swaminathan.us@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/navincolumbia
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Science in Computer Science
+    institution: Columbia University
+    date_start: 2024-08-25
+    date_end: 2025-12-18
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Courses included:
+      Applied Machine Learning, Analysis Of Algorithms, Advanced Software Engineering, Advanced Database systems, Operating System, Programming Language and translators, UI design.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: ''
+      url: ''
+  - area: B.Tech in Information Technology
+    institution: College Of Engineering Guindy, Anna University
+    date_start: 2019-07-31
+    date_end: 2023-04-30
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+      Big Data Analytics, Machine Learning, Artificial Intelligence, Data Science and Analytis, Pattern Recognition,
+      Advanced Data Structures, Web Technologies, Full Stack Software Development, Distributed Systems & Cloud Computing, 
+      Blockchain technologies, Computer Networks, Computer Architecture, Cyber Security & Mobile App Development.
+  work:
+  - position: Software Engineer
+    company_name: BNY - The Bank Of New York Mellon
+    company_url: https://www.bny.com/corporate/global/en.html
+    company_logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAilBMVEX///8AJD0AACgABS0AACYACy+qrLLT1dcAACsAIjzZ3N/8/Pzr7e4AHjkAACAAIDvKzdEAEjIAFzUtm60AABIAABpmsL4AGjbh4+WPlZ0Wlqm3vcIsPlIbLkV9hY7Cxso6SFri7/HN4+hLVmVlb3ujzdXt9fcjNUrB3eONws1xeYRQp7d+u8cAi6Dswdz4AAABZ0lEQVRIie2SyZKDIBBAadEII4pbomLULCZjzOT/f28aXMZU5T4X3qVpikfTACEWi8XyfwQLa7adJu+zG/yczjRtQARm+w6n45xG7Z6yRq85OTSvMJ4vW9EF7jmOw6SkVyJcwFSg6HC3HD1IekJaCunVLD5kt/sqOuDt4jjujhJYoEUorloE94t8h+DWcQQ8nU+aKXUYVtEt9aBNw9BUBGDVLJaYhg2HyJ/LnFWWqexxnsSiH8exT3njG7EAXOgbkez00fVGCzc0M/XKBi2CxxijsuhLLRbYmWw6akTSp7jT6e9KntpTP5e5YoscZREJFGlXUTT5JBLJORWr91BKPYfgrUd0kkqLNTkVeL5ZPEouV294Tf3NIusEUiWQtHcjCorenxgu3v2weUjdI8V3dBPgUTdVJHX0UXz7PX7uzbCowp/j7VEko+t5uREbRhn5hNgt1HgHAUbdsY47cyd68FG0WCwWy8QvKxkYFR+gWucAAAAASUVORK5CYII=
+    date_start: 2023-07-18
+    date_end: 2024-08-17
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Architected Java-based distributed ETL system for Teradata cross-regional migration. Implemented custom partitioning and parallel processing reducing migration time by 80% while handling 5TBs of financial data. 
+      - Engineered real-time data replication pipeline using Pentaho, synchronizing Oracle to Snowflake. Enabled cross- business analytics through efficient change data capture. Automated QA document review using Python and proprietary AI. Achieved 90% classification accuracy and reduced processing time by 70%.
+      - Built real-time fraud detection using isolation forest and streaming statistics with AWS (SageMaker, Lambda, Kinesis, DynamoDB). Implemented Count-Min Sketch for efficient feature aggregation achieving 95% accuracy with SNS alerts and exactly-once processing.
+      - Led Spring Boot 2 to 3 migration for enterprise reporting platform. Implemented systematic security patches eliminating 21 CVEs.
+      - Implemented automated disaster recovery system for 53 Teradata tables using AWS S3. Designed GitLab CI/CD pipeline with parallel restoration reducing recovery time from hours to minutes.
+      - Optimized query performance for mission-critical Teradata reports. Implemented views and query parallelization, reducing p99 latency by 50% for high-volume analytics.
+      - Led resolution of 20+ critical production incidents in distributed applications. Diagnosed and eliminated recurring failures reducing incidents by 60%.
+
+  - position: Software Developer Intern
+    company_name: Accolite Digital
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-06-01
+    date_end: 2022-18-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Designed and implemented ML-based personalized learning system for intern onboarding with conten recommendations, driving 40% increase in completion rates.
+      - Built NLP-powered chatbot for policy Q&A
+  - position: Data Scientist Intern
+    company_name: NIELIT
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-06-01
+    date_end: 2021-08-31
+    summary: |
+      Responsibilities include:
+      - Built customer retention prediction system using Pandas/NumPy/Scikit-learn stack, improving accuracy by 15% through feature importance analysis, k-fold cross validation and hyperparameter tuning with XGBoost
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -102,71 +102,130 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
+        percent: ''
+        icon: ''
+      - name: Java
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: ''
+        icon: ''
+      - name: C++
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: ''
+        icon: ''
+      - name: SQL
+        description: ''
+        percent: ''
+        icon: ''
+      - name: NoSQL
+        description: ''
+        percent: ''
+        icon: ''
+        - name: Spring Boot
+        description: ''
+        percent: ''
+        icon: ''
+       - name: 
+        description: Angular
+        percent: ''
+        icon: ''
+             - name: React
+        description: ''
+        percent: ''
+        icon: ''
+          - name: Node.js
+        description: ''
+        percent: ''
+        icon: ''
+            - name: GraphQL
+        description: ''
+        percent: ''
+        icon: ''
+               - name: REST API
+        description: ''
+        percent: ''
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: AWS/GCP/Azure
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: ''
+        icon: ''
+     
+            - name: Spark
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: ''
+        icon: ''
+                  - name: Kafka
         description: ''
-        percent: 80
-        icon: camera
+        percent: ''
+        icon: ''
+            - name: PyTorch
+        description: ''
+        percent: ''
+        icon: ''
+           - name: Tableau
+        description: ''
+        percent: ''
+        icon: ''
+               - name: Docker
+        description: ''
+        percent: ''
+        icon: ''
+          - name: AI/ML/LLM/GenAI
+        description: ''
+        percent: ''
+        icon: ''
+
+        
+
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: ''
+    percent: ''
+  - name: ''
+    percent: ''
+  - name: ''
+    percent: ''
 
-# Awards.
-#   Add/remove as many awards below as you like.
+# Projects.
+#   Add/remove as many Projects below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+projects:
+  - title: Programming Error Detection and Correction System
+    url: ''
+    date: ''
+    awarder: ''
+    icon: ''
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Designed end-to-end system combining LSTM networks and SVM to
+detect and correct logical errors in C programs. Implemented custom
+tokenizer using Clang AST and Wagner-Fischer algorithm for
+intelligent correction suggestions. Built multi-stage ML pipeline with PyTorch embedding layers, next- word probability distribution model achieving 90% accuracy, and
+automated edit operation predictor (insert/delete/replace) with iterative test case validation.
+  - title: Database Agnostic Querying
+    url: ''
+    date: ''
+    awarder: ''
+    icon: ''
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+     Created XQL, an XML-based, language-agnostic query abstraction
+layer that compiles queries to SQL (e.g., PostgreSQL, MySQL) for seamless database migration, removing language-specific ORM
+dependencies and enabling true cross-platform database flexibility.
+  - title: 'AI Medical Consultant'
+    url:''
+    certificate_url:''
+    date: ''
+    awarder: ''
+    icon: ''
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+   
+Built RAG-based consultation system using LangChain and FAISS.
+Implemented LSM-tree for vector storage and trie-based medical
+terminology matching. Developed async processing pipeline with
+circuit breakers using Python.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Engineering novel ML solutions and high-performance distributed systems for data-intensive applications at enterprise scale.
