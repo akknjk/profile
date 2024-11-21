@@ -74,7 +74,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-06-01
-    date_end: 2022-18-31
+    date_end: 2022-08-31
     summary: |
       Responsibilities include:
       - Designed and implemented ML-based personalized learning system for intern onboarding with content recommendations, driving 40% increase in completion rates.
