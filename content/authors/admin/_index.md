@@ -25,19 +25,14 @@ organizations:
     url: https://www.columbia.edu/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:navinashok.swaminathan.us@gmail.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/navincolumbia
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
 
 education:
   - area: Master of Science in Computer Science
@@ -47,9 +42,6 @@ education:
     summary: |
       Courses included:
       Applied Machine Learning, Analysis Of Algorithms, Advanced Software Engineering, Advanced Database systems, Operating System, Programming Language and translators, UI design.
-    button:
-      text: ''
-      url: ''
   - area: B.Tech in Information Technology
     institution: College Of Engineering Guindy, Anna University
     date_start: 2019-07-31
@@ -59,7 +51,8 @@ education:
       Big Data Analytics, Machine Learning, Artificial Intelligence, Data Science and Analytis, Pattern Recognition,
       Advanced Data Structures, Web Technologies, Full Stack Software Development, Distributed Systems & Cloud Computing, 
       Blockchain technologies, Computer Networks, Computer Architecture, Cyber Security & Mobile App Development.
-  work:
+
+work:
   - position: Software Engineer
     company_name: BNY - The Bank Of New York Mellon
     company_url: https://www.bny.com/corporate/global/en.html
@@ -84,8 +77,9 @@ education:
     date_end: 2022-18-31
     summary: |
       Responsibilities include:
-      - Designed and implemented ML-based personalized learning system for intern onboarding with conten recommendations, driving 40% increase in completion rates.
+      - Designed and implemented ML-based personalized learning system for intern onboarding with content recommendations, driving 40% increase in completion rates.
       - Built NLP-powered chatbot for policy Q&A
+
   - position: Data Scientist Intern
     company_name: NIELIT
     company_url: ''
@@ -95,8 +89,7 @@ education:
     summary: |
       Responsibilities include:
       - Built customer retention prediction system using Pandas/NumPy/Scikit-learn stack, improving accuracy by 15% through feature importance analysis, k-fold cross validation and hyperparameter tuning with XGBoost
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+
 skills:
   - name: Technical Skills
     items:
@@ -120,31 +113,32 @@ skills:
         description: ''
         percent: ''
         icon: ''
-        - name: Spring Boot
+      - name: Spring Boot
         description: ''
         percent: ''
         icon: ''
-       - name: 
-        description: Angular
-        percent: ''
-        icon: ''
-             - name: React
+      - name: Angular
         description: ''
         percent: ''
         icon: ''
-          - name: Node.js
+      - name: React
         description: ''
         percent: ''
         icon: ''
-            - name: GraphQL
+      - name: Node.js
         description: ''
         percent: ''
         icon: ''
-               - name: REST API
+      - name: GraphQL
         description: ''
         percent: ''
         icon: ''
-  - name: Hobbies
+      - name: REST API
+        description: ''
+        percent: ''
+        icon: ''
+
+  - name: Cloud & Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -152,47 +146,31 @@ skills:
         description: ''
         percent: ''
         icon: ''
-     
-            - name: Spark
+      - name: Spark
         description: ''
         percent: ''
         icon: ''
-                  - name: Kafka
+      - name: Kafka
         description: ''
         percent: ''
         icon: ''
-            - name: PyTorch
+      - name: PyTorch
         description: ''
         percent: ''
         icon: ''
-           - name: Tableau
+      - name: Tableau
         description: ''
         percent: ''
         icon: ''
-               - name: Docker
+      - name: Docker
         description: ''
         percent: ''
         icon: ''
-          - name: AI/ML/LLM/GenAI
+      - name: AI/ML/LLM/GenAI
         description: ''
         percent: ''
         icon: ''
 
-        
-
-
-languages:
-  - name: ''
-    percent: ''
-  - name: ''
-    percent: ''
-  - name: ''
-    percent: ''
-
-# Projects.
-#   Add/remove as many Projects below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 projects:
   - title: Programming Error Detection and Correction System
     url: ''
@@ -201,31 +179,33 @@ projects:
     icon: ''
     summary: |
       Designed end-to-end system combining LSTM networks and SVM to
-detect and correct logical errors in C programs. Implemented custom
-tokenizer using Clang AST and Wagner-Fischer algorithm for
-intelligent correction suggestions. Built multi-stage ML pipeline with PyTorch embedding layers, next- word probability distribution model achieving 90% accuracy, and
-automated edit operation predictor (insert/delete/replace) with iterative test case validation.
+      detect and correct logical errors in C programs. Implemented custom
+      tokenizer using Clang AST and Wagner-Fischer algorithm for
+      intelligent correction suggestions. Built multi-stage ML pipeline with PyTorch embedding layers, next-word probability distribution model achieving 90% accuracy, and
+      automated edit operation predictor (insert/delete/replace) with iterative test case validation.
+
   - title: Database Agnostic Querying
     url: ''
     date: ''
     awarder: ''
     icon: ''
     summary: |
-     Created XQL, an XML-based, language-agnostic query abstraction
-layer that compiles queries to SQL (e.g., PostgreSQL, MySQL) for seamless database migration, removing language-specific ORM
-dependencies and enabling true cross-platform database flexibility.
+      Created XQL, an XML-based, language-agnostic query abstraction
+      layer that compiles queries to SQL (e.g., PostgreSQL, MySQL) for seamless database migration, removing language-specific ORM
+      dependencies and enabling true cross-platform database flexibility.
+
   - title: 'AI Medical Consultant'
-    url:''
-    certificate_url:''
+    url: ''
+    certificate_url: ''
     date: ''
     awarder: ''
     icon: ''
     summary: |
-   
-Built RAG-based consultation system using LangChain and FAISS.
-Implemented LSM-tree for vector storage and trie-based medical
-terminology matching. Developed async processing pipeline with
-circuit breakers using Python.
+      Built RAG-based consultation system using LangChain and FAISS.
+      Implemented LSM-tree for vector storage and trie-based medical
+      terminology matching. Developed async processing pipeline with
+      circuit breakers using Python.
+
 ---
 
 Engineering novel ML solutions and high-performance distributed systems for data-intensive applications at enterprise scale.
