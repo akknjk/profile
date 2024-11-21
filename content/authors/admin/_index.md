@@ -32,7 +32,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/navincolumbia
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/navinashok-swaminathan/
 
 education:
   - area: Master of Science in Computer Science
