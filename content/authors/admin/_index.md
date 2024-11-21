@@ -62,7 +62,8 @@ work:
     summary: |2-
       Responsibilities include:
       - Architected Java-based distributed ETL system for Teradata cross-regional migration. Implemented custom partitioning and parallel processing reducing migration time by 80% while handling 5TBs of financial data. 
-      - Engineered real-time data replication pipeline using Pentaho, synchronizing Oracle to Snowflake. Enabled cross- business analytics through efficient change data capture. Automated QA document review using Python and proprietary AI. Achieved 90% classification accuracy and reduced processing time by 70%.
+      - Engineered real-time data replication pipeline using Pentaho, synchronizing Oracle to Snowflake. Enabled cross- business analytics through efficient change data capture.
+      - Automated QA document review using Python and proprietary AI. Achieved 90% classification accuracy and reduced processing time by 70%.
       - Built real-time fraud detection using isolation forest and streaming statistics with AWS (SageMaker, Lambda, Kinesis, DynamoDB). Implemented Count-Min Sketch for efficient feature aggregation achieving 95% accuracy with SNS alerts and exactly-once processing.
       - Led Spring Boot 2 to 3 migration for enterprise reporting platform. Implemented systematic security patches eliminating 21 CVEs.
       - Implemented automated disaster recovery system for 53 Teradata tables using AWS S3. Designed GitLab CI/CD pipeline with parallel restoration reducing recovery time from hours to minutes.
@@ -91,7 +92,7 @@ work:
       - Built customer retention prediction system using Pandas/NumPy/Scikit-learn stack, improving accuracy by 15% through feature importance analysis, k-fold cross validation and hyperparameter tuning with XGBoost
 
 skills:
-  - name: Technical Skills
+  - name: ''
     items:
       - name: Python
         description: ''
@@ -138,11 +139,24 @@ skills:
         percent: ''
         icon: ''
 
-  - name: Cloud & Tools
+  - name: ''
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: AWS/GCP/Azure
+      - name: AWS
+        description: ''
+        percent: ''
+        icon: ''
+      - name: GCP
+        description: ''
+        percent: ''
+        icon: ''
+
+      - name: Azure
+        description: ''
+        percent: ''
+        icon: ''
+      - name: Snowflake
         description: ''
         percent: ''
         icon: ''
